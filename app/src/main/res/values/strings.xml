@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="image_for_dice">image for dice</string>
+    <string name="roll_the_dice">Roll</string>
+    <string name="result1">1</string>
+    <string name="result2">2</string>
+    <string name="total">Total</string>
+    <string name="text_result1">First Die</string>
+    <string name="text_result2">Second Die</string>
+    <string name="text_total">Total</string>
+
+</resources>
